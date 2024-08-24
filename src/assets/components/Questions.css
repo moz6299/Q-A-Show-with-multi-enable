@@ -1,0 +1,40 @@
+/* Questions Component Styles */
+
+.questions {
+  margin-top: 20px;
+}
+
+.ques {
+  background-color: #e0e0e0; 
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.ques h2 {
+  cursor: pointer;
+  font-size: 18px;
+  color: #333;
+}
+
+.ques p {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #666;
+}
+
+.multibtn {
+  background-color: #f44336; 
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.multibtn:hover {
+  background-color: #c62828;
+}
+
